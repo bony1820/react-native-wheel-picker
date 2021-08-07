@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/tuyen.nguyen/Downloads/equix-mobile-online/node_modules/react-native-wheel-picker/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/tuyen.nguyen/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/5d2525e843b122d37f247e519d688326/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/tuyen.nguyen/Downloads/equix-mobile-online/node_modules/react-native-wheel-picker/android/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/tuyen.nguyen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/035adde76f6f7c18823b13543df4cbeb/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/tuyen.nguyen/Downloads/equix-mobile-online/node_modules/react-native-wheel-picker/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/tuyen.nguyen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/035adde76f6f7c18823b13543df4cbeb/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/tuyen.nguyen/Downloads/equix-mobile-online/node_modules/react-native-wheel-picker/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/tuyen.nguyen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/035adde76f6f7c18823b13543df4cbeb/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/tuyen.nguyen/Downloads/equix-mobile-online/node_modules/react-native-wheel-picker/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/tuyen.nguyen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/035adde76f6f7c18823b13543df4cbeb/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/tuyen.nguyen/Downloads/equix-mobile-online/node_modules/react-native-wheel-picker/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/tuyen.nguyen/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/5d2525e843b122d37f247e519d688326/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/tuyen.nguyen/Downloads/equix-mobile-online/node_modules/react-native-wheel-picker/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/tuyen.nguyen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/035adde76f6f7c18823b13543df4cbeb/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/tuyen.nguyen/Downloads/equix-mobile-online/node_modules/react-native-wheel-picker/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/tuyen.nguyen/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/5d2525e843b122d37f247e519d688326/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/tuyen.nguyen/Downloads/equix-mobile-online/node_modules/react-native-wheel-picker/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/tuyen.nguyen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/035adde76f6f7c18823b13543df4cbeb/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/tuyen.nguyen/Downloads/equix-mobile-online/node_modules/react-native-wheel-picker/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/tuyen.nguyen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/035adde76f6f7c18823b13543df4cbeb/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/tuyen.nguyen/Downloads/equix-mobile-online/node_modules/react-native-wheel-picker/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/tuyen.nguyen/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/5d2525e843b122d37f247e519d688326/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/tuyen.nguyen/Downloads/equix-mobile-online/node_modules/react-native-wheel-picker/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/tuyen.nguyen/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/5d2525e843b122d37f247e519d688326/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/tuyen.nguyen/Downloads/equix-mobile-online/node_modules/react-native-wheel-picker/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/tuyen.nguyen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/035adde76f6f7c18823b13543df4cbeb/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/tuyen.nguyen/Downloads/equix-mobile-online/node_modules/react-native-wheel-picker/android/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/tuyen.nguyen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/035adde76f6f7c18823b13543df4cbeb/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/tuyen.nguyen/Downloads/equix-mobile-online/node_modules/react-native-wheel-picker/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/tuyen.nguyen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/035adde76f6f7c18823b13543df4cbeb/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/tuyen.nguyen/Downloads/equix-mobile-online/node_modules/react-native-wheel-picker/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/tuyen.nguyen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/035adde76f6f7c18823b13543df4cbeb/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/tuyen.nguyen/Downloads/equix-mobile-online/node_modules/react-native-wheel-picker/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/tuyen.nguyen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/035adde76f6f7c18823b13543df4cbeb/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/tuyen.nguyen/Downloads/equix-mobile-online/node_modules/react-native-wheel-picker/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/tuyen.nguyen/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/5d2525e843b122d37f247e519d688326/res/anim/catalyst_fade_out.xml"
+    }
+]

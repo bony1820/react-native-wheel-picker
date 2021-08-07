@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/tuyen.nguyen/Downloads/equix-mobile-online/node_modules/react-native-wheel-picker/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/Users/tuyen.nguyen/.gradle/caches/transforms-1/files-1.1/WheelPicker-1.0.3.aar/0e6c346a92c4b0defc08a7169f9a4cca/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,425",
+                        "endLines": "15,29",
+                        "endColumns": "19,19",
+                        "endOffsets": "420,759"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/tuyen.nguyen/Downloads/equix-mobile-online/node_modules/react-native-wheel-picker/android/build/intermediates/res/merged/release/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/Users/tuyen.nguyen/.gradle/caches/transforms-1/files-1.1/WheelPicker-1.0.3.aar/0e6c346a92c4b0defc08a7169f9a4cca/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,425",
+                        "endLines": "15,29",
+                        "endColumns": "19,19",
+                        "endOffsets": "420,759"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/tuyen.nguyen/Downloads/equix-mobile-online/node_modules/react-native-wheel-picker/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/tuyen.nguyen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/035adde76f6f7c18823b13543df4cbeb/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/tuyen.nguyen/Downloads/equix-mobile-online/node_modules/react-native-wheel-picker/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/tuyen.nguyen/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/39dcfd30a5dd4ce7cb4abe4deac8ad38/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/tuyen.nguyen/Downloads/equix-mobile-online/node_modules/react-native-wheel-picker/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/tuyen.nguyen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/035adde76f6f7c18823b13543df4cbeb/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/tuyen.nguyen/Downloads/equix-mobile-online/node_modules/react-native-wheel-picker/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/tuyen.nguyen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/035adde76f6f7c18823b13543df4cbeb/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]
